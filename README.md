@@ -2,7 +2,7 @@
 This project focuses on analyzing drug reviews to understand user satisfaction, drug effectiveness, side effects, and overall scores. The dataset includes various features such as medical condition, user age, benefits, side effects, and ratings. The analysis was conducted using Python in a Jupyter Notebook environment. Both regression and classification models were applied to predict and classify overall drug scores, along with statistical tests and data visualizations to uncover trends, patterns, and key medical insights.
 
 ## Dataset used
-Dataset = ""
+Dataset = "https://github.com/SubhankarMukherjee-portfolio/drugs_side_effects/blob/main/drugs_side_effects_drugs_com.csv"
 
 ## Objectives of the project
 1) Perform exploratory data analysis (EDA) on drug review data
@@ -39,13 +39,13 @@ The following Python libraries were used during the data cleaning, exploration, 
 
    
 ## Python file (Jupyter Notebook)
-Python File = ""
+Python File = "https://github.com/SubhankarMukherjee-portfolio/drugs_side_effects/blob/main/drugs_side_effects_drugs_com.ipynb"
 
 ## PowerPoint presentation
-PPT = ""
+PPT = "https://github.com/SubhankarMukherjee-portfolio/drugs_side_effects/blob/main/Drugs_side_effects_Analysis_Presentation.pptx"
 
 ## PDF file of PowerPoint presentation
-pdf = ""
+pdf = "https://github.com/SubhankarMukherjee-portfolio/drugs_side_effects/blob/main/Drugs_side_effects_Analysis_Presentation.pdf"
 
 ## Final Observations & Storyline
 1) Acne leads in drug diversity with 39 unique drugs (7.98%), followed by Hypertension and Pain, indicating broader treatment options for these conditions. User satisfaction is highest for Erectile Dysfunction drugs (avg. score: 17.90), while Cancer (2.54) and Stroke (3.01) rank lowest, showing disparities in perceived effectiveness.
